@@ -9,5 +9,5 @@ Scripts to create user groups on a Linux System.
 # remove-users.sh
 Scripts to remove users from the Linux System.
 
-# httpd-enable.sh
+# httpd-enable-disable.sh
 Script to enable the Apache Web Server if its inactive and vice-versa.
